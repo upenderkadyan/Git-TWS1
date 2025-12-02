@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hello Everyone
 How are you today
 
@@ -76,3 +77,7 @@ How are you today
   74 cd .\Git-TWS\
   75 ls -l
   76 ls
+=======
+Hello this is new to learn
+This new change
+>>>>>>> 600ad40bf17f664460df6c3d4551622e416ae025
